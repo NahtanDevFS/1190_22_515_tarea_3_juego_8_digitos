@@ -6,36 +6,16 @@ El algoritmo de búsqueda en anchura es un algoritmo ciego, es decir, no posee r
 
 Para el ejercicio planteado en la imagen, que sería este:
 <br>
-<img width="363" height="272" alt="image" src="https://github.com/user-attachments/assets/bf979c57-1639-4275-9395-7fa1098fab8b" />
+<img width="447" height="609" alt="image" src="https://github.com/user-attachments/assets/32590662-f283-4588-9056-c4308cfbbdce" />
 
-
-El algoritmo como se puede ver, tuvo que realizar un total de 26 pasos:
-<br>
-Desde el paso 0:
+El algoritmo como se puede ver, fue resuelto por el agente:
 <br>
 
-<img width="453" height="693" alt="image" src="https://github.com/user-attachments/assets/cdec502d-239b-4aa2-ac98-fdf9b58033a2" />
-<br>
 
-Al paso 26:
-<br>
-
-<img width="393" height="770" alt="image" src="https://github.com/user-attachments/assets/ca3efeec-56aa-464c-badf-e5ae327d7918" />
-
-<br>
-<br>
-
-Por ejemplo, para otro ejercicio cómo el que está aquí:
-<br>
-<img width="333" height="265" alt="image" src="https://github.com/user-attachments/assets/555acb9a-c08e-40f9-94b8-d6c00b1d678f" />
-
+<img width="446" height="612" alt="image" src="https://github.com/user-attachments/assets/3cb2608d-802c-4ba3-a64b-2f988cb63689" />
 
 
 <br>
-Los pasos serían estos:
-<br>
-<img width="357" height="750" alt="image" src="https://github.com/user-attachments/assets/57845c92-a985-4f5c-a971-b9ce9883093c" />
-
 <br>
 
 <br>
