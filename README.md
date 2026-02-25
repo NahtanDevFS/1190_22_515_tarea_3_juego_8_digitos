@@ -6,17 +6,20 @@ El algoritmo de búsqueda en anchura es un algoritmo ciego, es decir, no posee r
 
 Para el ejercicio planteado en la imagen, que sería este:
 <br>
-<img width="447" height="609" alt="image" src="https://github.com/user-attachments/assets/32590662-f283-4588-9056-c4308cfbbdce" />
+<img width="394" height="547" alt="image" src="https://github.com/user-attachments/assets/078291c7-e887-4a15-a58c-0b269972883a" />
 
-El algoritmo como se puede ver, fue resuelto por el agente:
+El algoritmo como se puede ver, fue resuelto por el agente en 26 pasos:
+<br>
+<img width="395" height="546" alt="image" src="https://github.com/user-attachments/assets/dacd86ac-b01b-4f26-bb15-959a20b0292b" />
+
 <br>
 
 
-<img width="446" height="612" alt="image" src="https://github.com/user-attachments/assets/3cb2608d-802c-4ba3-a64b-2f988cb63689" />
+<img width="399" height="550" alt="image" src="https://github.com/user-attachments/assets/0822d8d6-c677-475a-bdf1-a187e0d957e2" />
 
 
 <br>
 <br>
 
 <br>
-Dado que no se utilizaron librerías como tal, el requirements.txt está vacío y el código está listo para ser ejecutado.
+Dado que no se utilizaron librerías externas, el requirements.txt está vacío y el código está listo para ser ejecutado.
