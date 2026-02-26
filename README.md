@@ -41,4 +41,4 @@ El algoritmo como se puede ver, fue resuelto por el agente en 5 pasos:
 <img width="391" height="541" alt="image" src="https://github.com/user-attachments/assets/eacaa6b9-62ab-4cd3-84f8-8c4744f2fa94" />
 
 <br>
-Dado que no se utilizaron librerías externas, el requirements.txt está vacío y el código está listo para ser ejecutado.
+Dado que las librerías utilizadas son propias de python, el requirements.txt está vacío y el código está listo para ser ejecutado.
